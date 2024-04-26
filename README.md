@@ -34,7 +34,13 @@ O Dashboard ANATEL  é composto por 3 painéis indicadores:
 
 ### Projeto Final:
 
-![anatel1](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/7cd7854b-53fd-47ef-b1af-131b496bd47b)
-![anatel2](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/c122e33a-a0dc-41d6-8e6e-57914f508812)
-![anatel3](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/e8b1f0d1-c8b5-4419-a5d9-6e63cad9fb01)
-![anatel4](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/be4a29f3-04c9-488e-9a0f-71420ebcd0e5)
+![capa](https://github.com/AlbertoFAraujo/PBI_Dashboard_ANATEL/assets/105552990/f9f6d9b6-7b43-4333-bfe0-dee8779e1f0f)
+![p1](https://github.com/AlbertoFAraujo/PBI_Dashboard_ANATEL/assets/105552990/958aa6c4-db09-4429-b173-b4027a131549)
+![p1-2](https://github.com/AlbertoFAraujo/PBI_Dashboard_ANATEL/assets/105552990/6011bf15-3912-420f-acb1-d3e3202e282b)
+![p2](https://github.com/AlbertoFAraujo/PBI_Dashboard_ANATEL/assets/105552990/14c6f55d-4e27-483b-af97-5401cf898d63)
+![p2-2](https://github.com/AlbertoFAraujo/PBI_Dashboard_ANATEL/assets/105552990/b9548dd0-fbb6-49ac-a1e2-27dd90c150ce)
+![p3](https://github.com/AlbertoFAraujo/PBI_Dashboard_ANATEL/assets/105552990/eefb6da5-8d9a-4220-9f3e-7c907efcabfe)
+
+
+
+

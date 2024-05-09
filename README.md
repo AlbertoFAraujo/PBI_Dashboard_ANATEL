@@ -30,7 +30,7 @@ O Dashboard ANATEL  é composto por 3 painéis indicadores:
 - **Análise Geral:** Este painel permite uma análise abrangente do cenário de reclamações da ANATEL ao longo do tempo, apresentando reclamações por serviços (banda larga fixa, telefone fixo, TV por assinatura, celular pré-pago e celular pós-pago) e as principais operadoras envolvidas (Top 5). Também oferece uma visão dos principais assuntos das reclamações, variação mensal das reclamações, índice de satisfação do cliente, total de reclamações gerais e métricas de atendimento das empresas, como percentual respondido, não respondido, resolvido e não resolvido, além do tempo médio de resposta (TMR).
 - **Análise Regional:** Neste painel, é possível analisar os indicadores por período (anos, semestres, meses) e por região do Brasil, incluindo uma avaliação por entidade (canal de atendimento utilizado para realizar a avaliação da solicitação - ANATEL, Usuário WEB ou Call Center). Apresenta um mapa com a distribuição do número de reclamações por estado e uma tabela com detalhamento das informações para uma compreensão mais detalhada das reclamações.
 - **Análise Operadora:** Segmentado por operadora, este painel permite uma análise detalhada da distribuição do número de reclamações por região, estado, ano e assunto, apresentando as informações de forma organizada e hierárquica através de um gráfico TreeView.
-  hr>
+<hr>
 
 ### Projeto Final:
 
